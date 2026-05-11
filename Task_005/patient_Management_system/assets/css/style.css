@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+.add-btn{
+    margin-right: 50px;
+    
+}
